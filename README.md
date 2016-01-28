@@ -8,3 +8,5 @@ we're [nodejs](https://nodejs.org/en/) fans, and we love to learn, share, and bu
 currently we're meeting out of [quelab](http://quelab.net/).  send a message here in the issue tracker w/ questions!
 
 next meetup TBD.  write us over [@abqnode](https://twitter.com/abqnode) on twitter if you'd like to give a lightning talk and/or present!
+
+interested in leading? sponsoring? hosting? ping [@cdaringe](https://twitter.com/cdaringe) ASAP!
